@@ -6,13 +6,13 @@
 
 ### High-Level Progamming Languages
 
-Python is what you call a high-level programming language. The intent of High-Level programming languages is to facilitate the creation of instructions/commands for a computer to run. What is `high-level` about these languages is that they do not require you to know the actual language that a computer needs to run its commands. Languages that a computer understands are called low-level languages. A translation process takes care of going from high-level to low-level.
+Python is what you call a high-level programming language. The intent of High-Level programming languages is to facilitate the creation of instructions/commands for a computer to run. What is `high-level` about these languages is that they do not require you to know the underlying binary language that a computer needs to run its commands. Languages that a computer understands are called low-level languages. A translation process takes care of going from high-level to low-level.
 
 A few High-Level Programming Languages:
-- Java
-- Python
-- C++
-- C
+- [Java](https://github.com/LuisJoseSanchez/hello-world-java)
+- [Python](https://gist.github.com/mosbth/b274bd08aab0ed0f9521)
+- [C++](https://github.com/cristianadam/HelloWorld/blob/master/main.cpp)
+- [C](https://gist.github.com/ramsey/11072524)
 
 ### Low-Level Programming Languages
 
